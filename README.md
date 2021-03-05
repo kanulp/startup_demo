@@ -1,16 +1,21 @@
 # startupdemo
 
-A new Flutter project.
+This project was a part of demo for one of my client.
+* includes startup business information.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<table>
 
-A few resources to get you started if this is your first Flutter project:
+<th>Screesnshots</th>
+<th>Screesnshots</th>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<tr>
+<td>
+ <img src="https://raw.githubusercontent.com/kanulp/startup_demo/master/screenshots/ss1.png" width="600"   title="Screenshot 1">
+</td>
+<td>
+ <img src="https://raw.githubusercontent.com/kanulp/startup_demo/master/screenshots/ss2.png" width="600" title="Screenshot 2">
+</td>
+</tr>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</table>
